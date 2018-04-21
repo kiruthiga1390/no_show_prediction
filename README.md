@@ -6,7 +6,7 @@ Kaggle data set consists of appointment information and whether the patient show
 2.Removed outliers in age(-1 and 115)
 3.Added new columns for better insights waiting time (appointment day - scheduled day),risk score (no.of appointments patient didnt show up/ total appointments patient booked), appointment day of week(monday to friday as 0 to 5)
 
-## Visulaization
+## Visualization
 Visualization of every column with show and no show count using histograms
 
 ## Modelling
